@@ -5,7 +5,7 @@ This project uses the MySQL database of a computer hardware company aiming to un
 ## Table of Content (files):
 1- The Database creation file (atliq_hardware_databse.sql)   
 2- Data analysis via SQL code ( analysis_via_sql.sql)     
-3- Dashboard Power BI file with insights visualization (analysis_via_pbi.pbix)
+3- Dashboard Power BI file with insights visualization (sales_project_dashboard.pbix)
 
 ## How to execute the project
 1- Must have MySQL database functional on local machine.   
